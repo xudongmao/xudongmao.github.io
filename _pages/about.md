@@ -45,7 +45,7 @@ Preprint, 2017
 Awards
 ======
 <b>Hong Kong PhD Fellowship Scheme (HKPFS)</b>, 2016-2019   
-<b>Chow Yei Ching School of Graduate Studies Entrance Scholarships</b>, 2016-2017
+<b>Chow Yei Ching School of Graduate Studies Entrance Scholarships</b>, 2016-2017    
 <b>Research Tuition Scholarships</b>, 2017-2018
 
 ******
