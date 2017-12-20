@@ -21,6 +21,13 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>On the Effectiveness of Least Squares Generative Adversarial Networks</b>    
+***Xudong Mao****, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley*   
+Preprint, 2017   
+[\[arXiv\]](https://arxiv.org/abs/1712.06391)
+[\[code\]](https://github.com/xudonmao/improved_LSGAN)
+
+
 <b>Least Squares Generative Adversarial Networks</b>    
 ***Xudong Mao****, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley*   
 International Conference on Computer Vision (ICCV), 2017    
@@ -39,6 +46,7 @@ Awards
 ======
 <b>Hong Kong PhD Fellowship Scheme (HKPFS)</b>, 2016-2019   
 <b>Chow Yei Ching School of Graduate Studies Entrance Scholarships</b>, 2016-2017
+<b>Research Tuition Scholarships</b>, 2017-2018
 
 ******
 
