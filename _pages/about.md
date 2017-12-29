@@ -26,6 +26,7 @@ Publications
 Preprint, 2017   
 [\[arXiv\]](https://arxiv.org/abs/1712.06391)
 [\[code\]](https://github.com/xudonmao/improved_LSGAN)
+[\[dataset\]](https://github.com/xudonmao/improved_LSGAN/blob/master/small_variance_datasets/data.tar.gz)
 
 
 <b>Least Squares Generative Adversarial Networks</b>    
