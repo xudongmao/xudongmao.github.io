@@ -21,6 +21,12 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>Unpaired Multi-Domain Image Generation via Regularized Conditional GANs</b>    
+***Xudong Mao****, Qing Li*   
+International Joint Conference on Artificial Intelligence (IJCAI), 2018 (To appear)    
+\[code (coming soon)\]
+
+
 <b>On the Effectiveness of Least Squares Generative Adversarial Networks</b>    
 ***Xudong Mao****, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley*   
 Preprint, 2017   
@@ -35,11 +41,6 @@ International Conference on Computer Vision (ICCV), 2017
 [\[arXiv\]](https://arxiv.org/abs/1611.04076)
 [\[code\]](https://github.com/xudonmao/LSGAN)
 
-
-<b>AlignGAN: Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks</b>    
-***Xudong Mao****, Qing Li, Haoran Xie*   
-Preprint, 2017    
-[\[arXiv\]](https://arxiv.org/abs/1707.01400)
 
 ******
 
