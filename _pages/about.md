@@ -22,7 +22,7 @@ Email: xudong.xdmao@gmail.com
 Publications 
 ======
 <b>Unpaired Multi-Domain Image Generation via Regularized Conditional GANs</b>    
-***Xudong Mao**** and Qing Li*   
+***Xudong Mao*** and Qing Li   
 International Joint Conference on Artificial Intelligence (IJCAI), 2018    
 \[code (coming soon)\]
 
