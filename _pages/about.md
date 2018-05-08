@@ -24,7 +24,8 @@ Publications
 <b>Unpaired Multi-Domain Image Generation via Regularized Conditional GANs</b>    
 ***Xudong Mao*** and Qing Li   
 International Joint Conference on Artificial Intelligence (IJCAI), 2018    
-\[code (coming soon)\]
+[\[arXiv\]](https://arxiv.org/abs/1805.02456)
+[\[code\]](https://github.com/xudonmao/RegCGAN)
 
 
 <b>On the Effectiveness of Least Squares Generative Adversarial Networks</b>    
