@@ -30,7 +30,7 @@ IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), to appear 2018
 
 
 <b>Unpaired Multi-Domain Image Generation via Regularized Conditional GANs</b>    
-***Xudong Mao*** and Qing Li   
+***Xudong Mao**** and Qing Li*   
 International Joint Conference on Artificial Intelligence (IJCAI), 2018    
 [\[arXiv\]](https://arxiv.org/abs/1805.02456)
 [\[code\]](https://github.com/xudonmao/RegCGAN)
