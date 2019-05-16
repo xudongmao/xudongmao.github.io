@@ -21,11 +21,11 @@ Email: xudong.xdmao@gmail.com
 Publications 
 ======
 <b>Virtual Mixup Training for Unsupervised Domain Adaptation</b>    
-***Xudong Mao\**** *,Yun Ma\*, Zhenguo Yang, Yangbin Chen, Qing Li*   
-\[\*indicates equal contribution\]
+***Xudong Mao****\*,Yun Ma\*, Zhenguo Yang, Yangbin Chen, Qing Li*   
+\[\*indicates equal contribution\]     
 Preprint, 2019    
 [\[arXiv\]](https://arxiv.org/abs/1905.04215)
-\[code\](Coming soon)
+\[code\](coming soon)
 
 
 <b>On the Effectiveness of Least Squares Generative Adversarial Networks</b>    
