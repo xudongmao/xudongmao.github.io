@@ -56,7 +56,7 @@ International Conference on Computer Vision (ICCV), 2017
 
 Academic Service
 ======
-Reviewer for journals: IJCV, TIP, TIST
+Reviewer for journals: IJCV, TIP, TIST      
 Reviewer for conferences: ICCV, AAAI, ACM MM, ACM KDD
 
 
