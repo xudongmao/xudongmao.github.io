@@ -54,11 +54,11 @@ International Conference on Computer Vision (ICCV), 2017
 
 ******
 
-Awards
+Academic Service
 ======
-<b>Hong Kong PhD Fellowship Scheme (HKPFS)</b>, 2016-2019   
-<b>Chow Yei Ching School of Graduate Studies Entrance Scholarships</b>, 2016-2017    
-<b>Research Tuition Scholarships</b>, 2017-2019
+Reviewer for journals: IJCV, TIP, TIST
+Reviewer for conferences: ICCV, AAAI, ACM MM, ACM KDD
+
 
 ******
 
@@ -68,3 +68,11 @@ Working Experience
 08.2014 - 08.2016, Hangzhou, China   
 <b>Institute of Data Science and Technology (iDST), Alibaba</b>
 
+
+******
+
+Awards
+======
+<b>Hong Kong PhD Fellowship Scheme (HKPFS)</b>, 2016-2019   
+<b>Chow Yei Ching School of Graduate Studies Entrance Scholarships</b>, 2016-2017    
+<b>Research Tuition Scholarships</b>, 2017-2019
