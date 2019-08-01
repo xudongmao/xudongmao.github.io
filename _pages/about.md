@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I completed my Ph.D. at [City University of Hong Kong](http://www.cityu.edu.hk/), advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). My research interests are in the areas of computer vision and deep learning. Recently I'm interested in generative adversarial networks and domain adaptation.
+I am currently a postdoctoral fellow at The Hong Kong Polytechnic University. I completed my Ph.D. at [City University of Hong Kong](http://www.cityu.edu.hk/), advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). My research interests are in the areas of computer vision and deep learning. Recently I'm interested in generative adversarial networks and domain adaptation.
 
 Before starting my Ph.D. study, I received a B.Eng. in Information Security from Nankai University in 2011 and a M.Phil. in Computer Science from City University of Hong Kong in 2014. During 2014-2016, I worked as a senior algorithm engineer at Institute of Data Science and Technology (iDST) of Alibaba.
 
