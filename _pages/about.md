@@ -54,19 +54,24 @@ International Conference on Computer Vision (ICCV), 2017
 
 ******
 
-Academic Service
+Working Experience
 ======
-Reviewer for journals: IJCV, TIP, TNNLS, PR, TIST      
-Reviewer for conferences: CVPR, ICCV, AAAI, ACM MM, ACM KDD
+<b>Postdoctoral Fellow</b>   
+02.2019 - now, Hong Kong   
+<b>Department of Computing, The Hong Kong Polytechnic University</b>
+
+
+<b>Senior Algorithm Engineer</b>   
+08.2014 - 08.2016, Hangzhou, China   
+<b>Institute of Data Science and Technology (iDST), Alibaba</b>
 
 
 ******
 
-Working Experience
+Academic Service
 ======
-<b>Senior Algorithm Engineer</b>   
-08.2014 - 08.2016, Hangzhou, China   
-<b>Institute of Data Science and Technology (iDST), Alibaba</b>
+Reviewer for journals: IJCV, TIP, TNNLS, PR, TIST      
+Reviewer for conferences: CVPR, ICCV, AAAI, ACM MM, ACM KDD
 
 
 ******
