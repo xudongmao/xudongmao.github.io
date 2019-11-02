@@ -56,8 +56,8 @@ International Conference on Computer Vision (ICCV), 2017
 
 Academic Service
 ======
-Reviewer for journals: IJCV, TIP, PR, TIST      
-Reviewer for conferences: ICCV, AAAI, ACM MM, ACM KDD
+Reviewer for journals: IJCV, TIP, TNNLS, PR, TIST      
+Reviewer for conferences: CVPR, ICCV, AAAI, ACM MM, ACM KDD
 
 
 ******
@@ -73,6 +73,7 @@ Working Experience
 
 Awards
 ======
+<b>Outstanding Research Thesis Award</b>, 2019   
 <b>Hong Kong PhD Fellowship Scheme (HKPFS)</b>, 2016-2019   
 <b>Chow Yei Ching School of Graduate Studies Entrance Scholarships</b>, 2016-2017    
 <b>Research Tuition Scholarships</b>, 2017-2019
