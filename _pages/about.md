@@ -32,7 +32,7 @@ Preprint, 2019
 
 <b>On the Effectiveness of Least Squares Generative Adversarial Networks</b>    
 ***Xudong Mao****, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley*   
-IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), to appear 2018   
+IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
 [\[arXiv\]](https://arxiv.org/abs/1712.06391)
 [\[code\]](https://github.com/xudonmao/improved_LSGAN)
 [\[dataset\]](https://github.com/xudonmao/improved_LSGAN/blob/master/small_variance_datasets/data.tar.gz)
