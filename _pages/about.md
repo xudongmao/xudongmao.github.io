@@ -71,7 +71,7 @@ Working Experience
 Academic Service
 ======
 Reviewer for journals: IJCV, TIP, TNNLS, PR, TIST      
-Reviewer for conferences: CVPR, ICCV, AAAI, ACM MM, ACM KDD
+Reviewer for conferences: CVPR, ICCV, ECCV, AAAI, ACM MM, ACM KDD
 
 
 ******
