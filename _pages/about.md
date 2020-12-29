@@ -10,9 +10,7 @@ redirect_from:
 
 About
 ======
-I am currently a postdoctoral fellow at The Hong Kong Polytechnic University. I completed my Ph.D. at City University of Hong Kong, advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). My research interests are in the areas of computer vision and deep learning. Recently I'm interested in generative adversarial networks and domain adaptation.
-
-Before starting my Ph.D. study, I received a B.Eng. in Information Security from Nankai University in 2011 and a M.Phil. in Computer Science from City University of Hong Kong in 2014. During 2014-2016, I worked as a senior algorithm engineer at Institute of Data Science and Technology (iDST) of Alibaba.
+I am currently an associate professor at the Xiamen University and a member of [Media Analytics and Computing Laboratory](https://mac.xmu.edu.cn/index.htm). I completed my Ph.D. at City University of Hong Kong, advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). My research interests are in the areas of generative adversarial networks, image generation, and computer vision.
 
 
 Email: xudong.xdmao@gmail.com
@@ -22,6 +20,11 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>Generative Semi-supervised Learning for Multivariate Time Series Imputation</b>    
+*Xiaoye Miao, Yangyang Wu, Jun Wang, Yunjun Gao,****Xudong Mao****, Jianwei Yin*   
+AAAI Conference on Artificial Intelligence (AAAI), 2021    
+
+
 <b>Virtual Mixup Training for Unsupervised Domain Adaptation</b>    
 ***Xudong Mao****\*,Yun Ma\*, Zhenguo Yang, Yangbin Chen, Qing Li*   
 \[\*indicates equal contribution\]     
@@ -56,8 +59,13 @@ International Conference on Computer Vision (ICCV), 2017
 
 Working Experience
 ======
+<b>Associate Professor</b>   
+12.2020 - now, Xiamen, China   
+<b>Department of Artificial Intelligence, Xiamen University</b>
+
+
 <b>Postdoctoral Fellow</b>   
-02.2019 - now, Hong Kong   
+02.2019 - 10.2020, Hong Kong   
 <b>Department of Computing, The Hong Kong Polytechnic University</b>
 
 
@@ -70,8 +78,8 @@ Working Experience
 
 Academic Service
 ======
-Reviewer for journals: IJCV, TIP, TNNLS, PR, TIST, TSC      
-Reviewer for conferences: CVPR, ICCV, ECCV, AAAI, ACM MM     
+Reviewer for journals: IJCV, TIP, TNNLS, PR, TIST, TSC, NEUNET, NEUCOM, NEURCOMP      
+Reviewer for conferences: CVPR, ICCV, ECCV, AAAI, IJCAI, ACCV, WACV     
 
 
 ******
