@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am currently an associate professor at the Xiamen University and a member of [Media Analytics and Computing Laboratory](https://mac.xmu.edu.cn/index.htm). I completed my Ph.D. at City University of Hong Kong, advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). My research interests are in the areas of generative adversarial networks, image generation, and computer vision.
+I am currently an associate professor at the Xiamen University and a member of [Media Analytics and Computing Laboratory](https://mac.xmu.edu.cn/index.htm). I completed my Ph.D. at the City University of Hong Kong, advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). My research interests are in the areas of generative adversarial networks, image generation, and computer vision.
 
 
 Email: xudong.xdmao@gmail.com
@@ -21,7 +21,7 @@ Email: xudong.xdmao@gmail.com
 Publications 
 ======
 <b>Generative Semi-supervised Learning for Multivariate Time Series Imputation</b>    
-*Xiaoye Miao, Yangyang Wu, Jun Wang, Yunjun Gao,****Xudong Mao****, Jianwei Yin*   
+*Xiaoye Miao, Yangyang Wu, Jun Wang, Yunjun Gao, ****Xudong Mao****, Jianwei Yin*   
 AAAI Conference on Artificial Intelligence (AAAI), 2021    
 
 
