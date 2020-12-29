@@ -21,7 +21,7 @@ Email: xudong.xdmao@gmail.com
 Publications 
 ======
 <b>Generative Semi-supervised Learning for Multivariate Time Series Imputation</b>    
-*Xiaoye Miao, Yangyang Wu, Jun Wang, Yunjun Gao, ****Xudong Mao****, Jianwei Yin*   
+*Xiaoye Miao, Yangyang Wu, Jun Wang, Yunjun Gao,* ***Xudong Mao****, Jianwei Yin*   
 AAAI Conference on Artificial Intelligence (AAAI), 2021    
 
 
