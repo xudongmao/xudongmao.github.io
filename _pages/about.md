@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am currently an associate professor at the Xiamen University and a member of [Media Analytics and Computing Laboratory](https://mac.xmu.edu.cn/index.htm). I completed my Ph.D. at the City University of Hong Kong, advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). My research interests are in the areas of generative adversarial networks, image generation, and computer vision.
+I am currently an associate professor at Xiamen University and a member of [Media Analytics and Computing Laboratory](https://mac.xmu.edu.cn/index.htm). I completed my Ph.D. at City University of Hong Kong, advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and my B.Eng. at Nankai University. My research interests are in the areas of generative adversarial networks, image-to-image translation, and computer vision.
 
 
 Email: xudong.xdmao@gmail.com
@@ -20,6 +20,13 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>Image-to-image Translation via Hierarchical Style Disentanglement</b>    
+*Xinyang Li, Shengchuan Zhang, Jie Hu, Liujuan Cao, Xiaopeng Hong,* ***Xudong Mao****, Feiyue Huang, Yongjian Wu, Rongrong Ji*   
+Conference on Computer Vision and Pattern Recognition (CVPR Oral), 2021    
+[\[arXiv\]](https://arxiv.org/abs/2103.01456)
+[\[code\]](https://github.com/imlixinyang/HiSD)
+
+
 <b>Generative Semi-supervised Learning for Multivariate Time Series Imputation</b>    
 *Xiaoye Miao, Yangyang Wu, Jun Wang, Yunjun Gao,* ***Xudong Mao****, Jianwei Yin*   
 AAAI Conference on Artificial Intelligence (AAAI), 2021    
