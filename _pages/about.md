@@ -20,9 +20,13 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>The Residual Generator: An Improved Divergence Minimization Framework for GAN</b>    
+*Aurele Tohokantche Gnanha, Wenming Cao,* ***Xudong Mao****, Si Wu, Hau-San Wong, Qing Li*   
+Pattern Recognition, 2021    
+
 <b>Image-to-image Translation via Hierarchical Style Disentanglement</b>    
 *Xinyang Li, Shengchuan Zhang, Jie Hu, Liujuan Cao, Xiaopeng Hong,* ***Xudong Mao****, Feiyue Huang, Yongjian Wu, Rongrong Ji*   
-Conference on Computer Vision and Pattern Recognition (CVPR Oral), 2021    
+Conference on Computer Vision and Pattern Recognition (CVPR), 2021    
 [\[arXiv\]](https://arxiv.org/abs/2103.01456)
 [\[code\]](https://github.com/imlixinyang/HiSD)
 
@@ -90,8 +94,8 @@ Working Experience
 
 Academic Service
 ======
-Reviewer for journals: IJCV, TIP, TNNLS, PR, TIST, TSC, NEUNET, NEUCOM, NEURCOMP      
-Reviewer for conferences: CVPR, ICCV, ECCV, AAAI, IJCAI, ACCV, WACV     
+Reviewer for journals: TPAMI, IJCV, TIP, TNNLS, PR, TIST, TSC, NEUNET, NEUCOM, NEURCOMP, EAAI, CAIS      
+Reviewer for conferences: CVPR, ICCV, ECCV, ICLR, AAAI, IJCAI, ACCV, WACV, ICME     
 
 
 ******
