@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xudong Mao"
 title_separator          : "-"
 name                     : &name "Xudong Mao"
-description              : &description "Associate Professor at Xiamen University"
+description              : &description "Associate Professor at Sun Yat-sen University"
 url                      : https://xudongmao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xudongmao.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Xudong Mao 毛旭东"
   avatar           : "xudongmao.jpg"
-  bio              : "Xiamen University"
+  bio              : "Sun Yat-sen University"
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?&user=9PLaP2cAAAAJ&hl=en"
