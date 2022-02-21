@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am currently an associate professor at Xiamen University and a member of [Media Analytics and Computing Laboratory](https://mac.xmu.edu.cn/index.htm). I completed my Ph.D. at City University of Hong Kong advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and my B.Eng. at Nankai University. My research interests are in the areas of generative adversarial networks, image-to-image translation, and computer vision.
+I am currently an associate professor at School of [Artificial Intelligence, Sun Yat-sen University](http://sai.sysu.edu.cn/). I completed my Ph.D. at City University of Hong Kong advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and my B.Eng. at Nankai University. My research interests are in the areas of generative adversarial networks, image-to-image translation, and computer vision.
 
 
 Email: xudong.xdmao@gmail.com
@@ -76,17 +76,22 @@ International Conference on Computer Vision (ICCV), 2017
 Working Experience
 ======
 <b>Associate Professor</b>   
-12.2020 - now, Xiamen, China   
+2022.01 - now, Zhuhai, China   
+<b>School of Artificial Intelligence, Sun Yat-sen University</b>
+
+
+<b>Associate Professor</b>   
+2020.12 - 2022.01, Xiamen, China   
 <b>Department of Artificial Intelligence, Xiamen University</b>
 
 
 <b>Postdoctoral Fellow</b>   
-02.2019 - 10.2020, Hong Kong   
+2019.02 - 2020.10, Hong Kong   
 <b>Department of Computing, The Hong Kong Polytechnic University</b>
 
 
 <b>Senior Algorithm Engineer</b>   
-08.2014 - 08.2016, Hangzhou, China   
+2014.08 - 2016.08, Hangzhou, China   
 <b>Institute of Data Science and Technology (iDST), Alibaba</b>
 
 
