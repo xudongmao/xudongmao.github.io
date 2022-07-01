@@ -20,6 +20,12 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability</b>    
+***Xudong Mao****, Liujuan Cao, Aurele Tohokantche Gnanha, Zhenguo Yang, Qing Li, Rongrong Ji*   
+ACM Multimedia (ACM MM), 2022   
+\[arXiv\] (Coming soon)
+\[code\] (Coming soon)
+
 <b>The Residual Generator: An Improved Divergence Minimization Framework for GAN</b>    
 *Aurele Tohokantche Gnanha, Wenming Cao,* ***Xudong Mao****, Si Wu, Hau-San Wong, Qing Li*   
 Pattern Recognition, 2021    
@@ -100,7 +106,7 @@ Working Experience
 Academic Service
 ======
 Reviewer for journals: TPAMI, IJCV, TIP, TNNLS, PR, TIST, TSC, NEUNET, NEUCOM, NEURCOMP, EAAI, CAIS      
-Reviewer for conferences: CVPR, ICCV, ECCV, ICLR, AAAI, IJCAI, ACCV, WACV, ICME     
+Reviewer for conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, IJCAI, ACCV, WACV, ICME     
 
 
 ******
