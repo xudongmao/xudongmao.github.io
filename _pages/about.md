@@ -23,8 +23,8 @@ Publications
 <b>Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability</b>    
 ***Xudong Mao****, Liujuan Cao, Aurele Tohokantche Gnanha, Zhenguo Yang, Qing Li, Rongrong Ji*   
 ACM Multimedia (ACM MM), 2022   
-\[arXiv\] (Coming soon)
-\[code\] (Coming soon)
+\[arXiv\] (coming soon)
+\[code\] (coming soon)
 
 <b>The Residual Generator: An Improved Divergence Minimization Framework for GAN</b>    
 *Aurele Tohokantche Gnanha, Wenming Cao,* ***Xudong Mao****, Si Wu, Hau-San Wong, Qing Li*   
