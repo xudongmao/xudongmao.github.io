@@ -81,30 +81,6 @@ International Conference on Computer Vision (ICCV), 2017
 
 ******
 
-Working Experience
-======
-<b>Associate Professor</b>   
-2022.01 - now, Zhuhai, China   
-<b>School of Artificial Intelligence, Sun Yat-sen University</b>
-
-
-<b>Associate Professor</b>   
-2020.12 - 2022.01, Xiamen, China   
-<b>Department of Artificial Intelligence, Xiamen University</b>
-
-
-<b>Postdoctoral Fellow</b>   
-2019.02 - 2020.10, Hong Kong   
-<b>Department of Computing, The Hong Kong Polytechnic University</b>
-
-
-<b>Senior Algorithm Engineer</b>   
-2014.08 - 2016.08, Hangzhou, China   
-<b>Institute of Data Science and Technology (iDST), Alibaba</b>
-
-
-******
-
 Academic Service
 ======
 Reviewer for journals: TPAMI, IJCV, TIP, TNNLS, PR, TIST, TSC, NEUNET, NEUCOM, NEURCOMP, EAAI, CAIS      
