@@ -83,8 +83,8 @@ International Conference on Computer Vision (ICCV), 2017
 
 Academic Service
 ======
-Reviewer for journals: TPAMI, IJCV, TIP, TNNLS, PR, TIST, TSC, NEUNET, NEUCOM, NEURCOMP, EAAI, CAIS      
-Reviewer for conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, IJCAI, ACCV, WACV, ICME     
+Reviewer for journals: TPAMI, TIP, IJCV, TNNLS, PR, TIST, TSC, NEUNET, NEUCOM, NEURCOMP, EAAI, CAIS      
+Reviewer for conferences: ICCV, ACM MM, CVPR, NeurIPS, ICLR, ECCV, AAAI, IJCAI, ACCV, WACV, ICME     
 
 
 ******
