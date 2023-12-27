@@ -21,7 +21,7 @@ Email: xudong.xdmao@gmail.com
 Publications 
 ======
 <b>Cross Initialization for Personalized Text-to-Image Generation</b>    
-*Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li,* ***Xudong Mao(&#9993;)***  
+*Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li,* ***Xudong Mao (&#9993;)***    
 Preprint, 2023    
 [\[arXiv\]](https://arxiv.org/abs/2312.15905)
 [\[code\]](https://github.com/lyuPang/CrossInitialization)
