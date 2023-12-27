@@ -20,6 +20,12 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>Cross Initialization for Personalized Text-to-Image Generation</b>    
+*Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li,* ***Xudong Mao(&#9993;)***  
+Preprint, 2023    
+[\[arXiv\]](https://arxiv.org/abs/2312.15905)
+[\[code\]](https://github.com/lyuPang/CrossInitialization)
+
 <b>Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability</b>    
 ***Xudong Mao****, Liujuan Cao, Aurele Tohokantche Gnanha, Zhenguo Yang, Qing Li, Rongrong Ji*   
 ACM Multimedia (ACM MM), 2022   
