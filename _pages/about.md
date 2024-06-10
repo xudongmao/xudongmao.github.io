@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am currently an associate professor at [School of Artificial Intelligence, Sun Yat-sen University](http://sai.sysu.edu.cn/). I completed my Ph.D. at City University of Hong Kong advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and my B.Eng. at Nankai University. My research interests are in the areas of generative adversarial networks, image-to-image translation, and computer vision.
+I am currently an associate professor at [School of Artificial Intelligence, Sun Yat-sen University](http://sai.sysu.edu.cn/). I completed my Ph.D. at City University of Hong Kong advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and my B.Eng. at Nankai University. My research interests are in the areas of diffusion models, generative adversarial networks, and deep generative models.
 
 
 Email: xudong.xdmao@gmail.com
@@ -20,8 +20,15 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation</b>    
+*Lianyu Pang, Jian Yin, Baoquan Zhao, Feize Wu, Fu Lee Wang, Qing Li,* ***Xudong Mao****;    
+Preprint, 2024    
+[\[arXiv\]](https://arxiv.org/abs/2406.05000)
+[\[project\]](https://attndreambooth.github.io/)
+\[code (coming soon)\]
+
 <b>Cross Initialization for Face Personalization of Text-to-Image Models</b>    
-*Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li,* ***Xudong Mao***&#9993;    
+*Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li,* ***Xudong Mao****;    
 Conference on Computer Vision and Pattern Recognition (CVPR), 2024    
 [\[arXiv\]](https://arxiv.org/abs/2312.15905)
 [\[code\]](https://github.com/lyuPang/CrossInitialization)
