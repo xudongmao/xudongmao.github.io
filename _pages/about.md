@@ -20,15 +20,22 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization</b>    
+*Feize Wu\*, Yun Pang\*, Junyi Zhang\*, Lianyu Pang\*, Jian Yin, Baoquan Zhao, Qing Li,* ***Xudong Mao***&dagger;    
+\[\*indicates equal contribution\]     
+Preprint, 2024    
+[\[arXiv\]](https://www.arxiv.org/abs/2408.15914)
+\[code (coming soon)\]
+
 <b>AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation</b>    
-*Lianyu Pang, Jian Yin, Baoquan Zhao, Feize Wu, Fu Lee Wang, Qing Li,* ***Xudong Mao****;    
+*Lianyu Pang, Jian Yin, Baoquan Zhao, Feize Wu, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
 Preprint, 2024    
 [\[arXiv\]](https://arxiv.org/abs/2406.05000)
 [\[project\]](https://attndreambooth.github.io/)
 \[code (coming soon)\]
 
 <b>Cross Initialization for Face Personalization of Text-to-Image Models</b>    
-*Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li,* ***Xudong Mao****;    
+*Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li,* ***Xudong Mao***&dagger;    
 Conference on Computer Vision and Pattern Recognition (CVPR), 2024    
 [\[arXiv\]](https://arxiv.org/abs/2312.15905)
 [\[code\]](https://github.com/lyuPang/CrossInitialization)
