@@ -25,6 +25,7 @@ Publications
 \[\*indicates equal contribution\]     
 Preprint, 2024    
 [\[arXiv\]](https://www.arxiv.org/abs/2408.15914)
+[\[project\]](https://pangy9.github.io/CoRe-page/)
 \[code (coming soon)\]
 
 <b>AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation</b>    
