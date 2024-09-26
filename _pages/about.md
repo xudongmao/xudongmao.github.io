@@ -33,7 +33,7 @@ Preprint, 2024
 Conference on Neural Information Processing Systems (NeurIPS), 2024    
 [\[arXiv\]](https://arxiv.org/abs/2406.05000)
 [\[project\]](https://attndreambooth.github.io/)
-\[code (coming soon)\]
+[\[code\]](https://github.com/lyuPang/AttnDreamBooth)
 
 <b>Cross Initialization for Face Personalization of Text-to-Image Models</b>    
 *Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li,* ***Xudong Mao***&dagger;    
