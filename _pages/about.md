@@ -30,7 +30,7 @@ Preprint, 2024
 
 <b>AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation</b>    
 *Lianyu Pang, Jian Yin, Baoquan Zhao, Feize Wu, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
-Conference on Neural Information Processing Systems (NeurIPS), 2024    
+Advances in Neural Information Processing Systems (NeurIPS), 2024    
 [\[arXiv\]](https://arxiv.org/abs/2406.05000)
 [\[project\]](https://attndreambooth.github.io/)
 [\[code\]](https://github.com/lyuPang/AttnDreamBooth)
