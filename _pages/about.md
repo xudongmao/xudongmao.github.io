@@ -22,8 +22,7 @@ Publications
 ======
 <b>CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization</b>    
 *Feize Wu\*, Yun Pang\*, Junyi Zhang\*, Lianyu Pang\*, Jian Yin, Baoquan Zhao, Qing Li,* ***Xudong Mao***&dagger;    
-\[\*indicates equal contribution\]     
-Preprint, 2024    
+AAAI Conference on Artificial Intelligence (AAAI), 2025    
 [\[arXiv\]](https://www.arxiv.org/abs/2408.15914)
 [\[project\]](https://pangy9.github.io/CoRe-page/)
 \[code (coming soon)\]
