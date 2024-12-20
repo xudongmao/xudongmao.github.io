@@ -25,11 +25,11 @@ Publications
 AAAI Conference on Artificial Intelligence (AAAI), 2025    
 [\[arXiv\]](https://www.arxiv.org/abs/2408.15914)
 [\[project\]](https://pangy9.github.io/CoRe-page/)
-\[code (coming soon)\]
+[\[code\]](https://github.com/pangy9/CoRe)
 
 <b>AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation</b>    
 *Lianyu Pang, Jian Yin, Baoquan Zhao, Feize Wu, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
-Advances in Neural Information Processing Systems (NeurIPS), 2024    
+Conference on Neural Information Processing Systems (NeurIPS), 2024    
 [\[arXiv\]](https://arxiv.org/abs/2406.05000)
 [\[project\]](https://attndreambooth.github.io/)
 [\[code\]](https://github.com/lyuPang/AttnDreamBooth)
