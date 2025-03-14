@@ -20,6 +20,13 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer</b>    
+*Bolin Chen, Baoquan Zhao, Haoran Xie, Yi Cai, Qing Li,* ***Xudong Mao***&dagger;    
+Preprint, 2025    
+[\[arXiv\]](https://arxiv.org/abs/2503.10614)
+[\[project\]](https://consislora.github.io/)
+[\[code\]](https://github.com/000linlin/ConsisLoRA)
+
 <b>CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization</b>    
 *Feize Wu\*, Yun Pang\*, Junyi Zhang\*, Lianyu Pang\*, Jian Yin, Baoquan Zhao, Qing Li,* ***Xudong Mao***&dagger;    
 AAAI Conference on Artificial Intelligence (AAAI), 2025    
