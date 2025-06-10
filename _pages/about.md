@@ -20,6 +20,12 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>PairEdit: Learning Semantic Variations for Exemplar-based Image Editing</b>    
+*Haoguang Lu, Jiacheng Chen, Zhenguo Yang, Aurele Tohokantche Gnanha, Fu Lee Wang, Li Qing,* ***Xudong Mao***&dagger;    
+Preprint, 2025    
+[\[arXiv\]](https://arxiv.org/abs/2506.07992)
+[\[code\]](https://github.com/xudonmao/PairEdit)
+
 <b>ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer</b>    
 *Bolin Chen, Baoquan Zhao, Haoran Xie, Yi Cai, Qing Li,* ***Xudong Mao***&dagger;    
 Preprint, 2025    
