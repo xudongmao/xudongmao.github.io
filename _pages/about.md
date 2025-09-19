@@ -22,7 +22,7 @@ Publications
 ======
 <b>PairEdit: Learning Semantic Variations for Exemplar-based Image Editing</b>    
 *Haoguang Lu, Jiacheng Chen, Zhenguo Yang, Aurele Tohokantche Gnanha, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
-Preprint, 2025    
+Conference on Neural Information Processing Systems (NeurIPS), 2025    
 [\[arXiv\]](https://arxiv.org/abs/2506.07992)
 [\[code\]](https://github.com/xudonmao/PairEdit)
 
