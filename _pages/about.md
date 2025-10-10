@@ -12,6 +12,7 @@ About
 ======
 I am currently an associate professor at [School of Artificial Intelligence, Sun Yat-sen University](http://sai.sysu.edu.cn/). I completed my Ph.D. at City University of Hong Kong advised by [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and my B.Eng. at Nankai University. My research interests are in the areas of diffusion models, generative adversarial networks, and deep generative models.
 
+✅ 招生信息：现招收1名***博士生***（2026年入学），欢迎有意的同学与我联系！
 
 Email: xudong.xdmao@gmail.com
 
