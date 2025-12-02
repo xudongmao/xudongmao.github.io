@@ -19,18 +19,18 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing</b>    
+*Yucheng Liao\*, Jiajun Liang\*, Kaiqian Cui\*, Baoquan Zhao, Haoran Xie, Wei Liu, Qing Li,* ***Xudong Mao***&dagger;    
+Preprint, 2025    
+[\[arXiv\]](https://arxiv.org/abs/2512.01755)
+[\[project\]](https://freqedit.github.io/)
+[\[code\]](https://github.com/FreqEdit/FreqEdit)
+
 <b>PairEdit: Learning Semantic Variations for Exemplar-based Image Editing</b>    
 *Haoguang Lu, Jiacheng Chen, Zhenguo Yang, Aurele Tohokantche Gnanha, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
 Conference on Neural Information Processing Systems (NeurIPS), 2025    
 [\[arXiv\]](https://arxiv.org/abs/2506.07992)
 [\[code\]](https://github.com/xudonmao/PairEdit)
-
-<b>ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer</b>    
-*Bolin Chen, Baoquan Zhao, Haoran Xie, Yi Cai, Qing Li,* ***Xudong Mao***&dagger;    
-Preprint, 2025    
-[\[arXiv\]](https://arxiv.org/abs/2503.10614)
-[\[project\]](https://consislora.github.io/)
-[\[code\]](https://github.com/000linlin/ConsisLoRA)
 
 <b>CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization</b>    
 *Feize Wu\*, Yun Pang\*, Junyi Zhang\*, Lianyu Pang\*, Jian Yin, Baoquan Zhao, Qing Li,* ***Xudong Mao***&dagger;    
@@ -38,6 +38,13 @@ AAAI Conference on Artificial Intelligence (AAAI), 2025
 [\[arXiv\]](https://www.arxiv.org/abs/2408.15914)
 [\[project\]](https://pangy9.github.io/CoRe-page/)
 [\[code\]](https://github.com/pangy9/CoRe)
+
+<b>ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer</b>    
+*Bolin Chen, Baoquan Zhao, Haoran Xie, Yi Cai, Qing Li,* ***Xudong Mao***&dagger;    
+Preprint, 2025    
+[\[arXiv\]](https://arxiv.org/abs/2503.10614)
+[\[project\]](https://consislora.github.io/)
+[\[code\]](https://github.com/000linlin/ConsisLoRA)
 
 <b>AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation</b>    
 *Lianyu Pang, Jian Yin, Baoquan Zhao, Feize Wu, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
