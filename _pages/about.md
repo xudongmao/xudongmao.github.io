@@ -24,7 +24,7 @@ Publications
 Preprint, 2025    
 [\[arXiv\]](https://arxiv.org/abs/2512.01755)
 [\[project\]](https://freqedit.github.io/)
-[\[code (coming soom)\]](https://github.com/FreqEdit/FreqEdit)
+[\[code (coming soon)\]](https://github.com/FreqEdit/FreqEdit)
 
 <b>PairEdit: Learning Semantic Variations for Exemplar-based Image Editing</b>    
 *Haoguang Lu, Jiacheng Chen, Zhenguo Yang, Aurele Tohokantche Gnanha, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
