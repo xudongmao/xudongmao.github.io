@@ -19,6 +19,12 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization</b>    
+*Lianyu Pang, Ji Zhou, Qiping Wang, Baoquan Zhao, Zhenguo Yang, Qing Li,* ***Xudong Mao***&dagger;    
+Preprint, 2025    
+[\[arXiv\]](https://arxiv.org/abs/2512.03964)
+[\[code\]](https://github.com/lyuPang/UniID)
+
 <b>FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing</b>    
 *Yucheng Liao\*, Jiajun Liang\*, Kaiqian Cui\*, Baoquan Zhao, Haoran Xie, Wei Liu, Qing Li,* ***Xudong Mao***&dagger;    
 Preprint, 2025    
