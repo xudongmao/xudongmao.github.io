@@ -19,18 +19,18 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing</b>    
+*Yucheng Liao\*, Jiajun Liang\*, Kaiqian Cui\*, Baoquan Zhao, Haoran Xie, Wei Liu, Qing Li,* ***Xudong Mao***&dagger;    
+Conference on Computer Vision and Pattern Recognition (CVPR), 2026    
+[\[arXiv\]](https://arxiv.org/abs/2512.01755)
+[\[project\]](https://freqedit.github.io/)
+[\[code (coming soon)\]](https://github.com/FreqEdit/FreqEdit)
+
 <b>Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization</b>    
 *Lianyu Pang, Ji Zhou, Qiping Wang, Baoquan Zhao, Zhenguo Yang, Qing Li,* ***Xudong Mao***&dagger;    
 Preprint, 2025    
 [\[arXiv\]](https://arxiv.org/abs/2512.03964)
 [\[code\]](https://github.com/lyuPang/UniID)
-
-<b>FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing</b>    
-*Yucheng Liao\*, Jiajun Liang\*, Kaiqian Cui\*, Baoquan Zhao, Haoran Xie, Wei Liu, Qing Li,* ***Xudong Mao***&dagger;    
-Preprint, 2025    
-[\[arXiv\]](https://arxiv.org/abs/2512.01755)
-[\[project\]](https://freqedit.github.io/)
-[\[code (coming soon)\]](https://github.com/FreqEdit/FreqEdit)
 
 <b>PairEdit: Learning Semantic Variations for Exemplar-based Image Editing</b>    
 *Haoguang Lu, Jiacheng Chen, Zhenguo Yang, Aurele Tohokantche Gnanha, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
