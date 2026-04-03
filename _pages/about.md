@@ -23,53 +23,53 @@ Publications
 *Yucheng Liao\*, Jiajun Liang\*, Kaiqian Cui\*, Baoquan Zhao, Haoran Xie, Wei Liu, Qing Li,* ***Xudong Mao***&dagger;    
 Conference on Computer Vision and Pattern Recognition (CVPR), 2026    
 [\[arXiv\]](https://arxiv.org/abs/2512.01755)
-[\[project\]](https://freqedit.github.io/)
-[\[code (coming soon)\]](https://github.com/FreqEdit/FreqEdit)
+[\[Project Page\]](https://freqedit.github.io/)
+[\[Code Available\]](https://github.com/FreqEdit/FreqEdit)
 
 <b>Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization</b>    
 *Lianyu Pang, Ji Zhou, Qiping Wang, Baoquan Zhao, Zhenguo Yang, Qing Li,* ***Xudong Mao***&dagger;    
 Preprint, 2025    
 [\[arXiv\]](https://arxiv.org/abs/2512.03964)
-[\[code\]](https://github.com/lyuPang/UniID)
+[\[Code Available\]](https://github.com/lyuPang/UniID)
 
 <b>PairEdit: Learning Semantic Variations for Exemplar-based Image Editing</b>    
 *Haoguang Lu, Jiacheng Chen, Zhenguo Yang, Aurele Tohokantche Gnanha, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
 Conference on Neural Information Processing Systems (NeurIPS), 2025    
 [\[arXiv\]](https://arxiv.org/abs/2506.07992)
-[\[code\]](https://github.com/xudonmao/PairEdit)
+[\[Code Available\]](https://github.com/xudonmao/PairEdit)
 
 <b>CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization</b>    
 *Feize Wu\*, Yun Pang\*, Junyi Zhang\*, Lianyu Pang\*, Jian Yin, Baoquan Zhao, Qing Li,* ***Xudong Mao***&dagger;    
 AAAI Conference on Artificial Intelligence (AAAI), 2025    
 [\[arXiv\]](https://www.arxiv.org/abs/2408.15914)
-[\[project\]](https://pangy9.github.io/CoRe-page/)
-[\[code\]](https://github.com/pangy9/CoRe)
+[\[Project Page\]](https://pangy9.github.io/CoRe-page/)
+[\[Code Available\]](https://github.com/pangy9/CoRe)
 
 <b>ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer</b>    
 *Bolin Chen, Baoquan Zhao, Haoran Xie, Yi Cai, Qing Li,* ***Xudong Mao***&dagger;    
 Preprint, 2025    
 [\[arXiv\]](https://arxiv.org/abs/2503.10614)
-[\[project\]](https://consislora.github.io/)
-[\[code\]](https://github.com/000linlin/ConsisLoRA)
+[\[Project Page\]](https://consislora.github.io/)
+[\[Code Available\]](https://github.com/000linlin/ConsisLoRA)
 
 <b>AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation</b>    
 *Lianyu Pang, Jian Yin, Baoquan Zhao, Feize Wu, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
 Conference on Neural Information Processing Systems (NeurIPS), 2024    
 [\[arXiv\]](https://arxiv.org/abs/2406.05000)
-[\[project\]](https://attndreambooth.github.io/)
-[\[code\]](https://github.com/lyuPang/AttnDreamBooth)
+[\[Project Page\]](https://attndreambooth.github.io/)
+[\[Code Available\]](https://github.com/lyuPang/AttnDreamBooth)
 
 <b>Cross Initialization for Face Personalization of Text-to-Image Models</b>    
 *Lianyu Pang, Jian Yin, Haoran Xie, Qiping Wang, Qing Li,* ***Xudong Mao***&dagger;    
 Conference on Computer Vision and Pattern Recognition (CVPR), 2024    
 [\[arXiv\]](https://arxiv.org/abs/2312.15905)
-[\[code\]](https://github.com/lyuPang/CrossInitialization)
+[\[Code Available\]](https://github.com/lyuPang/CrossInitialization)
 
 <b>Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability</b>    
 ***Xudong Mao****, Liujuan Cao, Aurele Tohokantche Gnanha, Zhenguo Yang, Qing Li, Rongrong Ji*   
 ACM Multimedia (ACM MM), 2022   
 [\[arXiv\]](https://arxiv.org/abs/2207.09367)
-[\[code\]](https://github.com/xudonmao/CycleEncoding)
+[\[Code Available\]](https://github.com/xudonmao/CycleEncoding)
 
 
 <b>The Residual Generator: An Improved Divergence Minimization Framework for GAN</b>    
@@ -81,7 +81,7 @@ Pattern Recognition, 2021
 *Xinyang Li, Shengchuan Zhang, Jie Hu, Liujuan Cao, Xiaopeng Hong,* ***Xudong Mao****, Feiyue Huang, Yongjian Wu, Rongrong Ji*   
 Conference on Computer Vision and Pattern Recognition (CVPR), 2021    
 [\[arXiv\]](https://arxiv.org/abs/2103.01456)
-[\[code\]](https://github.com/imlixinyang/HiSD)
+[\[Code Available\]](https://github.com/imlixinyang/HiSD)
 
 
 <b>Generative Adversarial Networks for Image Generation</b>    
@@ -99,29 +99,29 @@ AAAI Conference on Artificial Intelligence (AAAI), 2021
 \[\*indicates equal contribution\]     
 Preprint, 2019    
 [\[arXiv\]](https://arxiv.org/abs/1905.04215)
-[\[code\]](https://github.com/xudonmao/VMT)
+[\[Code Available\]](https://github.com/xudonmao/VMT)
 
 
 <b>On the Effectiveness of Least Squares Generative Adversarial Networks</b>    
 ***Xudong Mao****, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley*   
 IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
 [\[arXiv\]](https://arxiv.org/abs/1712.06391)
-[\[code\]](https://github.com/xudonmao/improved_LSGAN)
-[\[dataset\]](https://github.com/xudonmao/improved_LSGAN/blob/master/small_variance_datasets/data.tar.gz)
+[\[Code Available\]](https://github.com/xudonmao/improved_LSGAN)
+[\[Dataset\]](https://github.com/xudonmao/improved_LSGAN/blob/master/small_variance_datasets/data.tar.gz)
 
 
 <b>Unpaired Multi-Domain Image Generation via Regularized Conditional GANs</b>    
 ***Xudong Mao*** *and Qing Li*   
 International Joint Conference on Artificial Intelligence (IJCAI), 2018    
 [\[arXiv\]](https://arxiv.org/abs/1805.02456)
-[\[code\]](https://github.com/xudonmao/RegCGAN)
+[\[Code Available\]](https://github.com/xudonmao/RegCGAN)
 
 
 <b>Least Squares Generative Adversarial Networks</b>    
 ***Xudong Mao****, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley*   
 International Conference on Computer Vision (ICCV), 2017    
 [\[arXiv\]](https://arxiv.org/abs/1611.04076)
-[\[code\]](https://github.com/xudonmao/LSGAN)
+[\[Code Available\]](https://github.com/xudonmao/LSGAN)
 
 
 ******
