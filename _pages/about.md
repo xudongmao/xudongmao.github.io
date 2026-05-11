@@ -19,6 +19,13 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision</b>    
+*Jiacheng Chen, Songze Li, Han Fu, Baoquan Zhao, Wei Liu, Yanyan Liang, Qing Li,* ***Xudong Mao***&dagger;    
+Preprint, 2026    
+[\[arXiv\]](https://arxiv.org/abs/2605.07940)
+[\[Project Page\]](https://delta-adapter.github.io/)
+[\[Code (coming soon)\]](https://github.com/cst7R/Delta-Adapter)
+
 <b>FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing</b>    
 *Yucheng Liao\*, Jiajun Liang\*, Kaiqian Cui\*, Baoquan Zhao, Haoran Xie, Wei Liu, Qing Li,* ***Xudong Mao***&dagger;    
 Conference on Computer Vision and Pattern Recognition (CVPR), 2026    
