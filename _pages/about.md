@@ -133,6 +133,13 @@ International Conference on Computer Vision (ICCV), 2017
 
 ******
 
+Teaching
+======
+Statistical Decision Theory and Bayesian Analysis     
+Computer Programming II (C++)     
+
+******
+
 Academic Service
 ======
 Area chair: NeurIPS     
