@@ -22,7 +22,7 @@ Publications
 ======
 <b>Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision</b>    
 *Jiacheng Chen, Songze Li, Han Fu, Baoquan Zhao, Wei Liu, Yanyan Liang, Qing Li,* ***Xudong Mao***&dagger;    
-Preprint, 2026    
+Conference on Neural Information Processing Systems (NeurIPS), 2026    
 [\[arXiv\]](https://arxiv.org/abs/2605.07940)
 [\[Project Page\]](https://delta-adapter.github.io/)
 [\[Code (coming soon)\]](https://github.com/cst7R/Delta-Adapter)
@@ -36,9 +36,13 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 
 <b>Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization</b>    
 *Lianyu Pang, Ji Zhou, Qiping Wang, Baoquan Zhao, Zhenguo Yang, Qing Li,* ***Xudong Mao***&dagger;    
-Preprint, 2025    
+International Conference on Multimedia Retrieval (ICMR), 2026    
 [\[arXiv\]](https://arxiv.org/abs/2512.03964)
 [\[Code Available\]](https://github.com/lyuPang/UniID)
+
+<b>CycleLoRA: A Cycle-Consistent Low-Rank Approach for Continuous Image Editing</b>    
+*Jiajie Zhong, Haoguang Lu, Xiaoyu Dong, Baoquan Zhao, Zhenguo Yang, Qing Li,* ***Xudong Mao***&dagger;    
+International Conference on Multimedia & Expo (ICME), 2026    
 
 <b>PairEdit: Learning Semantic Variations for Exemplar-based Image Editing</b>    
 *Haoguang Lu, Jiacheng Chen, Zhenguo Yang, Aurele Tohokantche Gnanha, Fu Lee Wang, Qing Li,* ***Xudong Mao***&dagger;    
