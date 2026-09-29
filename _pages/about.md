@@ -20,6 +20,13 @@ Email: xudong.xdmao@gmail.com
 
 Publications 
 ======
+<b>Scaffold Then Internalize: Representation Injection for Diffusion Transformers</b>    
+*Han Fu, Jiacheng Chen, Baoquan Zhao, Weidong Chen, Wei Liu, Qing Li,* ***Xudong Mao***&dagger;    
+Preprint, 2026    
+[\[arXiv\]](https://arxiv.org/abs/2609.35292)
+[\[Project Page\]](https://jeneveuxpas.github.io/REPI/)
+[\[Code (coming soon)\]](https://github.com/Jeneveuxpas/REPI)
+
 <b>Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision</b>    
 *Jiacheng Chen, Songze Li, Han Fu, Baoquan Zhao, Wei Liu, Yanyan Liang, Qing Li,* ***Xudong Mao***&dagger;    
 Conference on Neural Information Processing Systems (NeurIPS), 2026    
