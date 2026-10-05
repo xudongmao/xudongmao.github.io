@@ -14,8 +14,6 @@ I am currently an associate professor at [School of Artificial Intelligence, Sun
 
 Email: xudong.xdmao@gmail.com
 
-<b>招生信息</b>：欢迎有意申请硕士、博士的同学与我联系。如有意申请华东师范大学co-supervised硕士，亦可联系。
-
 ******
 
 Publications 
