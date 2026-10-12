@@ -153,7 +153,7 @@ Computer Programming II (C++)
 Academic Service
 ======
 Area chair: NeurIPS 2026    
-Associate Editor: IEEE Computational Intelligence Letters      
+Associate editor: IEEE Computational Intelligence Letters      
 Reviewer for conferences: ICCV, ACM MM, CVPR, NeurIPS, ICLR, ECCV, AAAI, IJCAI, ACCV, WACV, ICME     
 Reviewer for journals: TPAMI, TIP, IJCV, TNNLS, PR, TIST, TSC, NEUNET, NEUCOM, NEURCOMP, EAAI, CAIS      
 
